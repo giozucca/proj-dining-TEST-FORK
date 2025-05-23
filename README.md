@@ -1,3 +1,4 @@
+hi
 # proj-dining
 
 UCSB Dining Hall Menus and Reviews
